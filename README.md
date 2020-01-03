@@ -5,6 +5,7 @@
 This application features the ability to test how many screen clicks you can perform in under a minute.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703818-0aedfc80-2d94-11ea-965f-4549e8e97466.png)
 
 ## Application Compiling
 
